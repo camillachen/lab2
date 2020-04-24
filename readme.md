@@ -9,6 +9,6 @@ It is pretty empty in the states east of Washington State of coronavirus related
 New York City has the most cases, so it makes sense to see why New York and nearby states would be be tweeting a lot about the coronavirus since they would be affected by this. The south is protesting against the quaratine, as seen by
 the latest tweets. They want to repopen, and I think that's why there is a lot of coronavirus related tweets.
 
-![Coronavirus Related Tweets](\img\lab2_map.png)
+![Coronavirus Related Tweets](img/lab2_map.png)
 
 >People are tweeting about repopening the state in the south and northern parts of Washington, according to the trending tweets I've seen on twitter these days. It makes sense why there are many coronavirus related tweets because of this.
